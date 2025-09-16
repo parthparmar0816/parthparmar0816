@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/26xBPQhJxxsCA7nMc/giphy.gif" width="60"/>  
-  <b style="color:#39ff14;">Full-Stack Developer • AI Explorer • Builder</b>  
+  <b style="color:#39ff14;">AI Explorer • Developing Solutions at Scale</b>  
   <img src="https://media.giphy.com/media/26xBPQhJxxsCA7nMc/giphy.gif" width="60"/>  
 </p>
 
@@ -43,13 +43,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parthparmar0816&show_icons=true&theme=chartreuse-dark&title_color=39ff14&icon_color=39ff14&text_color=39ff14&bg_color=000000" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthparmar0816&theme=highcontrast&fire=39ff14&ring=39ff14&currStreakLabel=39ff14" alt="GitHub Streak" height="160"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthparmar0816&layout=compact&theme=chartreuse-dark&title_color=39ff14&text_color=39ff14&bg_color=000000" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=parthparmar0816&theme=highcontrast&fire=39ff14&ring=39ff14&currStreakLabel=39ff14" alt="GitHub Streak" height="160"/>
-
 </p>
 
 ---
