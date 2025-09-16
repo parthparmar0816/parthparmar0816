@@ -48,6 +48,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthparmar0816&layout=compact&theme=chartreuse-dark&title_color=39ff14&text_color=39ff14&bg_color=000000" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=parthparmar0816&theme=highcontrast&fire=39ff14&ring=39ff14&currStreakLabel=39ff14" alt="GitHub Streak" height="160"/>
+
 </p>
 
 ---
