@@ -8,10 +8,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif" width="120"/>
-  <b style="color:#39ff14;">AI Explorer • Developing Solutions at Scale</b>  
-  <img src="https://media.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif" width="120"/>
-
+  <img src="https://media.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif" width="120" valign="middle"/>
+  <font color="#39ff14"><b>AI Explorer • Developing Solutions at Scale</b></font>
+  <img src="https://media.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif" width="120" valign="middle"/>
 </p>
 
 ---
