@@ -8,9 +8,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBPQhJxxsCA7nMc/giphy.gif" width="60"/>  
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="60"/>
   <b style="color:#39ff14;">AI Explorer • Developing Solutions at Scale</b>  
-  <img src="https://media.giphy.com/media/26xBPQhJxxsCA7nMc/giphy.gif" width="60"/>  
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="60"/>  
 </p>
 
 ---
@@ -60,8 +60,6 @@
 ```
 
 ---
-
-### ⌨️ Fun Zone
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=600&lines=Welcome+to+my+Terminal...;Access+Granted+✔;Loading+cool+projects...;print('Hello+World!')" alt="Typing SVG" />
