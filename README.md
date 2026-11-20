@@ -1,84 +1,77 @@
+<a href="https://parth-parmar.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.png">
+    <img src="assets/hero-light.png" width="100%" alt="Parth Parmar, AI/ML engineer in Ahmedabad, India. I build AI you can check: LLM agents, retrieval (RAG) and document intelligence. A halftone portrait of Parth stands on the right.">
+  </picture>
+</a>
 
-<p align="center">
-  <img src="Banner.png" alt="Welcome Banner"/>
-</p>
+### Hey, I'm Parth 👋
 
-<h1 align="center">
-  <span style="color:#39ff14;">Parth Parmar</span> 👨‍💻
-</h1>
+AI/ML engineer at EncodeDots in Ahmedabad, India. I build LLM agents, retrieval assistants and document pipelines that hold up in production, with the evals, guardrails and cost control that keep them honest. Two of them are products you can open right now.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif" width="120" valign="middle"/>
-  <font color="#39ff14"><b>AI Explorer • Developing Solutions at Scale</b></font>
-  <img src="https://media.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif" width="120" valign="middle"/>
-</p>
+[![Website](https://img.shields.io/badge/parth--parmar.vercel.app-5b5fe0?style=for-the-badge&logo=vercel&logoColor=white)](https://parth-parmar.vercel.app)
+[![Email AI](https://img.shields.io/badge/Email%20AI-live-34c88a?style=for-the-badge&labelColor=0a0a0a)](https://email-ai-parth.onrender.com/)
+[![Stembank](https://img.shields.io/badge/Stembank-live-34c88a?style=for-the-badge&labelColor=0a0a0a)](https://stembank.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-parmar-7168ab191)
 
----
+## Things I'm building
 
-### 🕹️ About Me
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://email-ai-parth.onrender.com/"><img src="assets/card-email.png" alt="Email AI: reads every invoice, docket and order in your inbox, and writes nothing down until you approve it"></a>
+      <h3><a href="https://email-ai-parth.onrender.com/">Email AI</a></h3>
+      Reads invoices, dockets and orders straight from Gmail with read-only access, extracts the fields in one model call, and saves nothing until a person approves it against the page.
+      <br><br>
+      <a href="https://parth-parmar.vercel.app/work/email-ai">Case study</a> · first load takes about a minute (free tier)
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://stembank.onrender.com/"><img src="assets/card-stem.png" alt="Stembank: medical question banks out of photographed PDFs, checked question by question and searchable"></a>
+      <h3><a href="https://stembank.onrender.com/">Stembank</a></h3>
+      Turns photographed medical question banks into searchable questions. Any question whose answer key names an option that is not on the page is dropped, not stored.
+      <br><br>
+      <a href="https://parth-parmar.vercel.app/work/stembank">Case study</a> · first load takes about half a minute (free tier)
+    </td>
+  </tr>
+</table>
 
-```diff
-+ 👨‍💻 Software Engineer passionate about AI, automation, and scaling systems.
-+ 🚀 Building projects that blend backend engineering with modern AI.
-+ 🌐 Portfolio: [parth-parmar.vercel.app](https://parth-parmar.vercel.app/)
-- Always hacking, learning, and pushing limits...
+## `~/.config/parth.json`
+
+```json
+{
+  "name": "Parth Parmar",
+  "role": "AI/ML Engineer at EncodeDots",
+  "location": "Ahmedabad, India",
+  "builds": "AI you can check",
+  "focus": ["LLM agents", "RAG", "document intelligence"],
+  "shipped": "15+ production systems",
+  "live": ["Email AI", "Stembank"],
+  "open_to": "new projects"
+}
 ```
 
----
+<sub>Most of my work lives in private client repos. The twelve case studies, with a replay of each one working, are at [parth-parmar.vercel.app/work](https://parth-parmar.vercel.app/work).</sub>
 
-### ⚡ Tech Arsenal
+## Toolbox
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-39FF14?style=for-the-badge&logo=python&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Flask-39FF14?style=for-the-badge&logo=flask&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/React-39FF14?style=for-the-badge&logo=react&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Node.js-39FF14?style=for-the-badge&logo=node.js&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-39FF14?style=for-the-badge&logo=postgresql&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Docker-39FF14?style=for-the-badge&logo=docker&logoColor=000000"/>
-</p>
+<a href="https://parth-parmar.vercel.app/services">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,pytorch,tensorflow,docker,aws,gcp,postgres,mongodb,redis,react,ts,flask,git&perline=14" alt="Python, FastAPI, PyTorch, TensorFlow, Docker, AWS, Google Cloud, PostgreSQL, MongoDB, Redis, React, TypeScript, Flask, Git">
+</a>
 
----
+## Snack time
 
-### 🖥️ GitHub Analytics
+A snake eats my contribution graph every day. Most of the food is in private repos, so some days it goes hungry.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthparmar0816&show_icons=true&theme=chartreuse-dark&title_color=39ff14&icon_color=39ff14&text_color=39ff14&bg_color=000000" alt="GitHub Stats" height="160"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parthparmar0816/parthparmar0816/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/parthparmar0816/parthparmar0816/output/snake.svg" width="100%" alt="A snake eating the squares of Parth's GitHub contribution graph">
+</picture>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthparmar0816&layout=compact&theme=chartreuse-dark&title_color=39ff14&text_color=39ff14&bg_color=000000" height="160"/>
-</p>
+<br><br>
 
----
-
-### 🧑‍💻 Featured Projects
-
-```diff
-+ 🔐 [Financial-Bot](https://github.com/parthparmar0816/Financial-Bot) → AI-powered financial assistant.
-+ 📊 [Rules Engine](https://github.com/parthparmar0816) → Dynamic tax/staff rule automation.
-+ 📡 More on my profile → [Repositories](https://github.com/parthparmar0816?tab=repositories)
-```
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=600&lines=Welcome+to+my+Terminal...;Access+Granted+✔;Loading+cool+projects...;print('Hello+World!')" alt="Typing SVG" />
-</p>
-
----
-
-### 📡 Connect with Me
-
-<p align="center">
-  <a href="https://parth-parmar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=About.me&logoColor=000000"/></a>
-  <a href="https://www.linkedin.com/in/parthparmar0816/"><img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
-  <a href="mailto:parth.parmar1616@gmail.com"><img src="https://img.shields.io/badge/Email-39FF14?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
-  <br/>
-  <i style="color:#39ff14;">“Talk is cheap. Show me the code.”</i>
-</p>
+<a href="https://parth-parmar.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/foot-dark.png">
+    <img src="assets/foot-light.png" width="100%" alt="Thanks for scrolling. Bring me the messy one: parth-parmar.vercel.app">
+  </picture>
+</a>
